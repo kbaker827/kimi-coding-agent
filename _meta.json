@@ -1,0 +1,13 @@
+{
+  "name": "kimi-coding-agent",
+  "version": "1.0.0",
+  "description": "Spawn Kimi K2.5 sub-agents for coding tasks - building features, refactoring, code review, and debugging",
+  "author": "Kyle Baker",
+  "model": "moonshot/kimi-k2.5",
+  "features": [
+    "background-sessions",
+    "worktree-support",
+    "session-monitoring",
+    "parallel-development"
+  ]
+}
